@@ -3,6 +3,7 @@ function func() {
 }
 
 function func2() {
+  console.log("from second branch");
   console.log("hello from func2");
 }
 
