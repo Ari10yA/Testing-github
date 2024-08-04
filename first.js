@@ -1,5 +1,5 @@
 function func() {
-  console.log("Hello");
+  console.log("Hello-edited-from-second-branch_lt");
 }
 
 function func2() {
